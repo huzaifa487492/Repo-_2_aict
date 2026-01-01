@@ -1,0 +1,1 @@
+This is a Powerpoint presentation containing 14-15 slides about our AICT presentation topic . it includes The slides of Comsol model and uses powerpoint presentations to help the people understand more easily
